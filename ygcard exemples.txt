@@ -1,0 +1,29 @@
+Normal Monster:
+    !ygcard dark magician
+
+Effect Monster:
+    !ygcard kuriboh
+
+Fusion Monster:
+    !ygcard thunder dragon colossus
+
+Ritual Monster:
+    !ygcard saffira, queen of dragons
+
+Synchro Monster:
+    !ygcard stardust dragon
+
+Xyz Monster:
+    !ygcard evilswarm ouroboros
+
+Pendulum Monster:
+    !ygcard odd-eyes rebellion dragon
+        (les pendulums viennent se greffer à tous les autres types de monstres à part link, du coup on prendra un exemple quelconque)
+Link Monser:
+    !ygcard predaplant verte anaconda
+
+Trap:
+    !ygcard imperial order
+
+Magic:
+    !ygcard forbidden droplet

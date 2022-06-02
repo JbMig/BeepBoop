@@ -19,13 +19,13 @@ colors ={
     }
 #Les cartes "Lien" ont des flèches propres à leur type, je dois donc les récupérer pour les afficher
 arrows ={
-    '1' : '↖️',
+    '1' : '↙️',
     '2' : '⬆️',
-    '3' : '↗️',
+    '3' : '↘️',
     '4' : '➡️',
-    '5' : '↘️',
+    '5' : '↗️',
     '6' : '⬇️',
-    '7' : '↙️',
+    '7' : '↖️',
     '8' : '⬅️'
     }
 #Chaque carte a un attribut, je vais vouloir l'afficher en tant qu'icon_url
