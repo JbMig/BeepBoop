@@ -137,7 +137,7 @@ async def on_message(message):
 	if message.author == client.user:
 		return
 	# Help function
-	help_channel = client.get_channel(978295223660724264)
+	help_channel = client.get_channel()
 	#how does the bot work ?
 	if (message.channel == help_channel and "bot" in message.content) or message.content == "$bot" :
 		embed = discord.Embed (
@@ -183,12 +183,12 @@ async def on_message(message):
 	if message.content.startswith('$mod'):
     	# msg = '@Moderator, (some message after this)'.format(message)
 		author_tag = "<@" + str(message.author.id) + ">"
-		mod_tag = "<@&" + str(981576133290115093) + ">" #981568451455909898 : id of the moderator role
+		mod_tag = "<@&" + str() + ">"  #id of the moderator role between str()
 		tag = mod_tag + ", " + author_tag + " a besoin de vous." 
 		await message.channel.send(tag)
 
 	# Now, time for fun !
-	general_channel = client.get_channel(978294958077411340)
+	general_channel = client.get_channel()
 
 
 	if message.channel == general_channel :
@@ -246,4 +246,4 @@ async def on_message(message):
 
 
 
-client.run()
+client.run("Njc3Mzg0Mzc1OTg5Njk4NTcx.Gqis5r.dY6P_Wm2u562mLwvS2HbKwy3VlNGmszorid5pI")
