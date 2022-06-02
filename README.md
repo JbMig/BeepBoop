@@ -7,15 +7,15 @@ Commandes spécifiques au salon d'aide
 
 - messages contenant 'bot' : fonctionnement du bot
 - messages contenant 'help' : assistant d'aide aux études
-|--> messages contenant 'reset' ou 'début' : retour au début de l'assistant
-|--> messages contenant 'return', 'retour' ou 'annuler' : retour à la question précédente de l'assistant
+</br>|--> messages contenant 'reset' ou 'début' : retour au début de l'assistant
+</br>|--> messages contenant 'return', 'retour' ou 'annuler' : retour à la question précédente de l'assistant
 ______________________________________
 Commandes spécifiques au salon général
 - '$bot' : fonctionnement du bot
 - messages commençant par $salut : le bot vous dit bonjour
 - messages contenant 'i choose you !' : choix d'un starter pokémon
-|--> messages contenant 'reset' ou 'début' : retour au début
-|--> messages contenant 'return', 'retour' ou 'annuler' : retour à la question précédente
+</br>|--> messages contenant 'reset' ou 'début' : retour au début
+</br>|--> messages contenant 'return', 'retour' ou 'annuler' : retour à la question précédente
 - '!ygcard nom_d_une_carte' : afficher une carte yu-gi-oh
 ______________________________________
 Commandes générales
