@@ -22,3 +22,6 @@ Commandes générales
 - '$bot' : fonctionnement du bot
 - '$del' : supprime les 5 derniers messages du salon, y compris ceux du bot
 Le bot contient également un easter-egg pour Victorien, buveur de café invétéré.
+
+- Pour modifier l'id du channel attribué au commandes : ligne 140 et 191 ou bien, cherche get_channel
+- En cas de test ave l'appel d'un rôle, modifier la ligne 186
